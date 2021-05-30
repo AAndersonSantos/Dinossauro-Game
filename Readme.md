@@ -1,6 +1,6 @@
 <h1 align="center">🎮 Dino Game </h1>
 
-<h2 align="center"><a href="">🚀🦕 Clique Aqui Para Jogar 🦕🚀</a></h2>
+<h2 align="center"><a href="https://aandersonsantos.github.io/Dinossauro-Game/">🚀🦕 Clique Aqui Para Jogar 🦕🚀</a></h2>
 
 <h2 align="center">👁‍🗨👁‍🗨</h2>
 <h2 align="center">📸Scrennshot</h2>
@@ -26,7 +26,7 @@
 ```
 #Para fazer clone do repositório ultilizando git use a linha de comando abaixo:
 
-git clone 
+git clone https://github.com/AAndersonSantos/Dinossauro-Game.git
 
 ```
 
@@ -34,4 +34,4 @@ git clone
 
 ## 📝**Licença Do Projeto**
 
-[MIT]()
+[MIT](https://github.com/AAndersonSantos/Dinossauro-Game/blob/main/LICENSE)
